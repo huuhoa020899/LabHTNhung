@@ -1,0 +1,1 @@
+Mỗi lần nhấn B2 đèn sẽ nhấp nháy 10 lần.
